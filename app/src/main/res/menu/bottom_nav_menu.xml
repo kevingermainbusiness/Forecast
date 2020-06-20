@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_today"
+        android:icon="@drawable/ic_baseline_today_24"
+        android:title="@string/title_today" />
+
+    <item
+        android:id="@+id/navigation_seven_days"
+        android:icon="@drawable/ic_baseline_filter_7_24"
+        android:title="@string/title_seven_days" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="@string/title_settings" />
+
+</menu>
